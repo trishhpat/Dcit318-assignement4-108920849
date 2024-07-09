@@ -1,0 +1,10 @@
+C:\Users\angel\source\repos\CanvasApp\bin\Debug\CanvasApp.exe.config
+C:\Users\angel\source\repos\CanvasApp\bin\Debug\CanvasApp.exe
+C:\Users\angel\source\repos\CanvasApp\bin\Debug\CanvasApp.pdb
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.csproj.AssemblyReference.cache
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.Form1.resources
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.Properties.Resources.resources
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.exe
+C:\Users\angel\source\repos\CanvasApp\obj\Debug\CanvasApp.pdb
